@@ -23,7 +23,7 @@ public class DashboardController implements Initializable {
 			for(int j=0; j<5; j++) {
 				pane.add(new Label("o"), j, i);
 			}
-		}		
+		}
 	}
 	
 	public void updateUsername(String username) {
