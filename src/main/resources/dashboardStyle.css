@@ -1,0 +1,11 @@
+#pane {
+	-fx-border-color: black;
+	-fx-border-width: 2;
+	-fx-border-style: solid;	
+}
+
+#profile {
+	-fx-border-color: blue;
+	-fx-border-width: 2;
+	-fx-border-style: solid;
+}
